@@ -16,6 +16,7 @@
   <a href="https://www.youtube.com/c/PeterSmulovics/videos">
     <img src="https://img.shields.io/youtube/channel/views/UCm9p8M75dAemkv74FLj8dlQ?style=social" alt="youtube" style="vertical-align:top; margin:4px"/>
   </a>
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
 </p>
 
 <hr/>
