@@ -18,8 +18,11 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=psmulovics" />
 </p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psmulovics&show_icons=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psmulovics&theme=blue-green"/>
+</p>
+
 <hr/>
 
 ### 🚧 I build with...
